@@ -2,7 +2,8 @@
 # sql-powerbi-sales-analysis
 ## 📷 Dashboard Preview
 
-![Power BI Dashboard](dashbord%20%20pro_1.PNG)
+![Power BI Dashboard](dashbord%20%20pro_1.png)
+
 
 
 # SQL & Power BI Sales Analysis Project
