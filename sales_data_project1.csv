@@ -1,0 +1,151 @@
+OrderID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,CustomerName,CustomerCity,OrderStatus,PaymentMethod
+1,2025-03-25,Electronics,Electronics Item 2,3,81.02,Patrick Shaw,Haynesmouth,Delivered,Credit Card
+2,2025-03-05,Books,Books Item 3,1,37.17,,Whitakerstad,Delivered,Bank Transfer
+3,2025-02-18,Toys,Toys Item 27,2,140.27,Brian Hutchinson,Reyesland,Delivered,Credit Card
+4,2025-03-12,Home & Kitchen,Home & Kitchen Item 10,2,287.59,Deborah Lee,Myersstad,Delivered,Credit Card
+5,2025-03-23,Home & Kitchen,Home & Kitchen Item 3,4,165.51,Patrick Warner,Longville,Pending,PayPal
+6,2025-01-23,Home & Kitchen,Home & Kitchen Item 37,2,214.33,Samantha Byrd,Lake Victoria,Delivered,Credit Card
+7,2025-03-13,Electronics,Electronics Item 25,3,141.49,Sabrina Mcbride,Watsonburgh,Cancelled,Credit Card
+8,2025-01-05,Electronics,Electronics Item 39,2,164.9,Sherri West,Lake John,Delivered,PayPal
+9,2024-12-11,Toys,Toys Item 15,3,254.43,Rose Thomas,South Anthonymouth,Cancelled,Credit Card
+10,2025-05-01,Electronics,Electronics Item 14,5,264.15,Michael Fowler,New Amandastad,Delivered,Bank Transfer
+11,2025-04-16,Clothing,Clothing Item 17,2,81.52,Gregory Bailey,Matthewton,Delivered,PayPal
+12,2025-01-25,Home & Kitchen,Home & Kitchen Item 15,2,157.76,Travis Lewis,North Michaelburgh,Delivered,Credit Card
+13,2024-11-25,Books,Books Item 39,1,121.58,Anthony Willis,Bakerfort,Delivered,PayPal
+14,2025-01-14,Electronics,Electronics Item 44,1,207.7,William Nelson,New Beverlystad,Delivered,PayPal
+15,2025-04-21,Clothing,Clothing Item 30,1,286.61,Jennifer James,South Tony,Cancelled,PayPal
+16,2025-04-17,Electronics,Electronics Item 41,3,254.08,Melissa Clements,Lake Brittney,Delivered,Credit Card
+17,2024-11-14,Toys,Toys Item 1,5,104.01,Amy Jensen,Port Kathrynmouth,Delivered,PayPal
+18,2024-11-17,Electronics,Electronics Item 16,5,284.62,Adam James,Rivasfurt,Delivered,PayPal
+19,2025-03-01,Clothing,Clothing Item 9,4,284.59,Leslie Everett,New Scott,Delivered,Bank Transfer
+20,2025-01-19,Toys,Toys Item 49,2,216.76,Stephanie Aguirre,Port Shane,Delivered,Bank Transfer
+21,2025-02-24,Electronics,Electronics Item 16,2,28.57,Traci Thompson,Hernandezmouth,Delivered,Bank Transfer
+22,2024-12-14,Electronics,Electronics Item 15,1,272.57,Ryan Cruz,Brownstad,Cancelled,Credit Card
+23,2025-01-29,Toys,Toys Item 9,5,177.1,Bryan Summers,Powersside,Delivered,PayPal
+24,2025-02-21,Books,Books Item 23,4,129.22,Patricia Garcia,Christinamouth,Cancelled,Credit Card
+25,2025-03-03,Books,Books Item 47,3,242.17,Ashley Hanson,Port Crystal,Delivered,Credit Card
+26,2025-01-22,Home & Kitchen,Home & Kitchen Item 30,2,263.6,Joseph Burton,Lake Julieburgh,Delivered,Bank Transfer
+27,2025-02-02,Electronics,Electronics Item 6,2,58.23,Christy Quinn,New Michael,Delivered,Credit Card
+28,2025-01-22,Electronics,Electronics Item 25,3,278.69,Heather Brown,Lake Deborahview,Cancelled,PayPal
+29,2025-02-22,Toys,Toys Item 43,4,54.89,Sheila Cox,Margaretville,Delivered,Credit Card
+30,2025-02-21,Electronics,Electronics Item 4,5,148.27,Anna Robinson DVM,Willistown,Pending,Bank Transfer
+31,2025-04-10,Clothing,Clothing Item 5,5,29.71,Richard Erickson,Taratown,Cancelled,PayPal
+32,2024-12-21,Toys,Toys Item 3,5,33.78,Colleen Smith,Jorgeview,Delivered,Bank Transfer
+33,2025-03-10,Home & Kitchen,Home & Kitchen Item 16,3,124.78,Mike Montgomery,Carpenterstad,Delivered,PayPal
+34,2025-03-28,Electronics,Electronics Item 30,5,299.55,Anna Woodward,Evanstown,Pending,Credit Card
+35,2025-04-09,Home & Kitchen,Home & Kitchen Item 5,2,117.16,Lucas Robertson,North Linda,Delivered,Bank Transfer
+36,2024-12-05,Toys,Toys Item 1,5,96.82,Bradley Fernandez,Wrightside,Delivered,Credit Card
+37,2025-01-27,Clothing,Clothing Item 18,3,185.4,Kevin Martinez,Flynnfort,Delivered,Credit Card
+38,2025-04-24,Home & Kitchen,Home & Kitchen Item 4,1,193.94,,Brownville,Cancelled,Credit Card
+39,2024-11-13,Home & Kitchen,Home & Kitchen Item 11,4,169.99,Alexander Savage,North Savannahfort,Delivered,Credit Card
+40,2025-03-27,Clothing,Clothing Item 35,1,252.03,Christian Zavala,South Courtney,Delivered,Credit Card
+41,2025-03-16,Electronics,Electronics Item 23,2,207.8,Erika Gomez,Port Evelyn,Delivered,PayPal
+42,2024-12-30,Toys,Toys Item 48,2,278.47,Kathleen Brown,New Amyton,Delivered,Credit Card
+43,2024-11-24,Electronics,Electronics Item 12,3,236.89,Daniel Martinez,New Hollymouth,Delivered,Bank Transfer
+44,2024-12-25,Electronics,Electronics Item 25,1,258.99,William Crosby,Schaeferbury,Delivered,PayPal
+45,2024-12-21,Clothing,Clothing Item 2,2,125.56,Nicole Wood,New Tracy,Delivered,Credit Card
+46,2024-11-23,Books,Books Item 44,5,106.03,Stacy James,East Peterfurt,Delivered,PayPal
+47,2025-02-06,Electronics,Electronics Item 39,4,110.25,Chelsea Bautista,Leahchester,Cancelled,PayPal
+48,2025-01-27,Toys,Toys Item 13,3,22.87,Melissa Rivera,Thomasville,Delivered,Bank Transfer
+49,2024-11-30,Clothing,Clothing Item 24,4,30.29,Victor White,Lake Christineshire,Delivered,PayPal
+50,2025-04-14,Home & Kitchen,Home & Kitchen Item 33,3,203.4,Jennifer Scott,West Annettestad,Delivered,Bank Transfer
+51,2025-04-15,Books,Books Item 44,2,188.5,Kimberly Sims,West Jeffrey,Delivered,Bank Transfer
+52,2025-03-01,Toys,Toys Item 39,3,144.85,Matthew Middleton,New Breannamouth,Delivered,Credit Card
+53,2024-11-30,Clothing,Clothing Item 43,1,92.3,Eric Thomas,Lake Melanie,Delivered,Bank Transfer
+54,2025-01-14,Home & Kitchen,Home & Kitchen Item 15,2,52.73,Timothy Dillon,Ellisonborough,Delivered,PayPal
+55,2024-12-02,Toys,Toys Item 13,4,153.37,Ronald Montoya,Gutierrezview,Delivered,Bank Transfer
+56,2024-12-22,Electronics,Electronics Item 50,4,73.46,James Peterson,Port Andrewview,Cancelled,Bank Transfer
+57,2024-12-03,Electronics,Electronics Item 30,2,242.41,Nicholas Sanchez,Port Amyborough,Delivered,Bank Transfer
+58,2025-01-17,Toys,Toys Item 47,5,133.75,Corey Oliver,Kathryntown,Pending,PayPal
+59,2025-03-07,Home & Kitchen,Home & Kitchen Item 49,2,253.56,Cassandra Williams,Gibsonland,Delivered,Bank Transfer
+60,2025-01-15,Home & Kitchen,Home & Kitchen Item 16,3,107.4,Edward Miller,South Johnville,Cancelled,Credit Card
+61,2025-01-08,Clothing,Clothing Item 5,4,128.2,Susan Vargas,East Brendanhaven,Delivered,PayPal
+62,2025-03-22,Toys,Toys Item 45,1,258.45,Johnny Vaughn,Sharichester,Cancelled,PayPal
+63,2024-12-24,Books,Books Item 27,5,226.78,Garrett Long,New Danielport,Delivered,Bank Transfer
+64,2025-01-11,Books,Books Item 2,4,107.48,Stefanie Lee,Collinsmouth,Delivered,PayPal
+65,2025-02-04,Toys,Toys Item 35,1,273.01,,Ingramport,Delivered,Bank Transfer
+66,2025-03-08,Books,Books Item 12,1,85.45,Jessica Lopez,Adamland,Delivered,PayPal
+67,2025-02-01,Books,Books Item 17,1,146.39,Mathew Johnson,North Katherine,Delivered,Credit Card
+68,2024-11-24,Electronics,Electronics Item 49,1,285.39,Heather Tanner,Port Brett,Delivered,Credit Card
+69,2025-01-21,Electronics,Electronics Item 37,2,144.86,Amanda Jacobs,West Jorge,Delivered,PayPal
+70,2025-04-23,Electronics,Electronics Item 50,2,289.77,Savannah Brown,Kimview,Delivered,Credit Card
+71,2025-01-15,Books,Books Item 26,2,32.04,Kevin Nguyen,North Jasminemouth,Delivered,Bank Transfer
+72,2025-02-24,Toys,Toys Item 8,5,236.96,Tiffany Calderon,Atkinsonmouth,Delivered,PayPal
+73,2025-01-17,Electronics,Electronics Item 27,4,40.61,Kevin Jackson,Tuckerside,Pending,Bank Transfer
+74,2025-03-29,Clothing,Clothing Item 47,5,289.99,Tracy Fitzpatrick,Joyceburgh,Delivered,Bank Transfer
+75,2025-04-27,Toys,Toys Item 18,3,257.0,Justin Watson,Phillipborough,Cancelled,Credit Card
+76,2025-03-20,Toys,Toys Item 40,4,107.56,Rose Barnett,Port April,Delivered,PayPal
+77,2025-03-28,Home & Kitchen,Home & Kitchen Item 18,5,213.34,Dwayne Maldonado,Tylerbury,Delivered,Credit Card
+78,2024-11-13,Books,Books Item 32,5,229.87,Sean Phillips,North Jeremy,deliverd,Bank Transfer
+79,2025-01-17,Home & Kitchen,Home & Kitchen Item 15,4,210.62,Thomas Boyd,Lake Deborah,Delivered,Bank Transfer
+80,2025-01-14,Toys,Toys Item 22,3,213.83,Theodore Harvey,Nicolefurt,Delivered,PayPal
+81,2025-02-25,Toys,Toys Item 49,2,65.55,Stacey Lopez,South Codystad,Delivered,PayPal
+82,2025-04-23,Home & Kitchen,Home & Kitchen Item 7,2,95.91,,Rogerstad,Delivered,PayPal
+83,2025-04-10,Electronics,Electronics Item 36,3,,Daniel Craig,Lake Isaiahburgh,Delivered,PayPal
+84,2024-12-27,Books,Books Item 29,3,63.47,Brett Peterson,South Amandachester,Delivered,PayPal
+85,2025-01-20,Toys,Toys Item 41,1,54.0,Alice Larsen,Smithberg,Cancelled,PayPal
+86,2024-12-31,Books,Books Item 39,5,239.31,Deanna Patel,Dylanfort,Delivered,Bank Transfer
+87,2024-12-17,Toys,Toys Item 28,3,174.9,Daniel Dickerson,Aliceshire,Delivered,Bank Transfer
+88,2025-04-22,Home & Kitchen,Home & Kitchen Item 43,1,55.55,Elizabeth Sharp,Braunberg,Delivered,Credit Card
+89,2024-12-07,Books,Books Item 19,1,77.13,Nicholas Bean,New Teresaton,Delivered,Bank Transfer
+90,2025-01-15,Home & Kitchen,Home & Kitchen Item 41,5,201.74,Jesse King,West Jessica,Pending,PayPal
+91,2024-12-11,Home & Kitchen,Home & Kitchen Item 10,1,27.3,Raymond Davis MD,Davisbury,Cancelled,Bank Transfer
+92,2024-12-04,Electronics,Electronics Item 30,3,212.92,Logan Gordon,East Theresachester,Pending,Bank Transfer
+93,2024-11-14,Books,Books Item 48,3,185.08,Henry Thomas,West Tamara,Delivered,Credit Card
+94,2025-02-12,Electronics,Electronics Item 49,3,177.11,Ashley Hernandez,Smithport,Cancelled,Credit Card
+95,2025-03-25,Clothing,Clothing Item 38,4,194.09,Robert Burns,Meaganchester,Delivered,Credit Card
+96,2025-04-16,Electronics,Electronics Item 11,3,129.38,Brenda Davidson,Martinezport,Delivered,Bank Transfer
+97,2025-04-18,Books,Books Item 6,3,83.2,Tiffany Hood,Mariahaven,deliverd,PayPal
+98,2025-04-04,Toys,Toys Item 30,4,25.72,Kaitlin Anderson,North Richardport,Delivered,Bank Transfer
+99,2025-02-08,Clothing,Clothing Item 18,5,47.99,Michael Greer,Graystad,Delivered,Bank Transfer
+100,2025-01-25,Clothing,Clothing Item 46,2,100.12,Christopher Adams DDS,Stricklandshire,Delivered,PayPal
+101,2025-04-23,Books,Books Item 8,2,154.53,Melanie Sanford,West Todd,Delivered,Bank Transfer
+102,2025-01-28,Books,Books Item 16,4,169.87,Jose Rose,Greenfort,Delivered,Bank Transfer
+103,2025-02-09,Home & Kitchen,Home & Kitchen Item 50,4,108.56,Brian Ortiz,South Kaylafurt,Cancelled,PayPal
+104,2024-11-01,Toys,Toys Item 38,4,260.93,Kevin Tucker,Port Benjamin,Delivered,PayPal
+105,2024-11-20,Books,Books Item 21,2,294.42,Catherine Sanchez,Port Jenniferfurt,Delivered,PayPal
+106,2025-02-10,Books,Books Item 46,4,121.96,Kristi Williams,Port Eric,Delivered,Bank Transfer
+107,2025-02-24,Toys,Toys Item 38,3,262.21,Amy Edwards,Brownland,deliverd,PayPal
+108,2025-02-13,Clothing,Clothing Item 27,2,31.7,Catherine Young,Robertshire,Cancelled,PayPal
+109,2024-12-17,Home & Kitchen,Home & Kitchen Item 44,5,120.2,Christopher Wong,Port Michaelview,Delivered,Bank Transfer
+110,2024-11-26,Toys,Toys Item 5,2,193.04,Alexander Graham,Lake Justin,Pending,Credit Card
+111,2024-11-18,Electronics,Electronics Item 29,2,211.26,Brittany Griffith,Rosalesside,Pending,Credit Card
+112,2025-01-20,Books,Books Item 10,2,164.04,Damon Parks,Lake Laura,Delivered,Credit Card
+113,2024-11-10,Toys,Toys Item 44,2,154.32,Amanda Jones,West Jefferyville,Delivered,Credit Card
+114,2025-03-10,Electronics,Electronics Item 30,3,206.51,Billy Barber,Lake Kellychester,Delivered,PayPal
+115,2025-04-22,Books,Books Item 45,3,142.48,Bobby Rosales,Reyeshaven,Delivered,PayPal
+116,2025-02-11,Home & Kitchen,Home & Kitchen Item 37,3,,Natalie Ruiz,North Ryanhaven,Delivered,Bank Transfer
+117,2024-11-25,Electronics,Electronics Item 39,4,251.52,Bradley Franco,Nicholaston,Pending,Credit Card
+118,2025-01-11,Toys,Toys Item 17,2,192.19,Joanna Lewis,Janetberg,Pending,Bank Transfer
+119,2024-12-22,Home & Kitchen,Home & Kitchen Item 47,2,36.14,William Lyons,North Joshua,Delivered,Bank Transfer
+120,2025-03-14,Home & Kitchen,Home & Kitchen Item 34,5,274.91,Michael Graham,West Miguelborough,Cancelled,PayPal
+121,2025-03-23,Home & Kitchen,Home & Kitchen Item 48,3,243.23,Jessica Baxter,Port Jonathan,Delivered,Credit Card
+122,2024-12-09,Books,Books Item 36,3,36.19,Ryan Romero,Kellymouth,Delivered,PayPal
+123,2025-01-13,Home & Kitchen,Home & Kitchen Item 38,4,248.5,Jason Ramos,Davishaven,Pending,Credit Card
+124,2025-03-15,Toys,Toys Item 21,5,74.2,Kevin Jennings,Dawnton,Delivered,PayPal
+125,2024-12-10,Clothing,Clothing Item 3,1,98.27,William Pearson,Chandlerstad,Delivered,Credit Card
+126,2025-02-03,Home & Kitchen,Home & Kitchen Item 43,5,131.55,Blake Conley,Davidberg,Delivered,Credit Card
+127,2025-04-21,Toys,Toys Item 27,3,19.49,Mrs. Jaclyn Davila DDS,Lake Christopher,Delivered,PayPal
+128,2025-02-23,Home & Kitchen,Home & Kitchen Item 35,3,27.56,Danielle Esparza,Lake Megan,Delivered,Credit Card
+129,2024-12-31,Clothing,Clothing Item 42,5,291.62,Samantha Downs,Nelsonview,Delivered,PayPal
+130,2025-01-31,Electronics,Electronics Item 49,5,70.08,Christina Barber,Lake Brittanyshire,Delivered,Credit Card
+131,2024-11-06,Electronics,Electronics Item 18,2,296.38,Daniel Perez,West Janet,Delivered,Credit Card
+132,2025-04-17,Home & Kitchen,Home & Kitchen Item 16,5,103.89,Michael Berg,Port Daniel,Delivered,Credit Card
+133,2025-03-05,Electronics,Electronics Item 31,4,235.62,Julia Buckley,Laurenborough,Delivered,Credit Card
+134,2024-11-08,Toys,Toys Item 20,4,196.57,Christopher Mcdowell,Lake Allisonside,Delivered,PayPal
+135,2025-03-04,Books,Books Item 5,1,103.41,Eric Brewer,Jacksonstad,Delivered,Credit Card
+136,2025-04-18,Home & Kitchen,Home & Kitchen Item 25,5,163.86,Julia Fisher,Faithtown,Delivered,Bank Transfer
+137,2025-03-06,Toys,Toys Item 47,2,134.72,Richard Powell,Christopherville,Cancelled,PayPal
+138,2025-04-26,Electronics,Electronics Item 21,4,100.63,Jason Edwards,Lake Davidview,Delivered,Credit Card
+139,2025-02-27,Electronics,Electronics Item 6,4,38.0,Nicolas Crawford,Hallview,Delivered,Credit Card
+140,2024-12-09,Home & Kitchen,Home & Kitchen Item 43,1,129.13,Jacob Christensen,Sullivanport,Cancelled,PayPal
+141,2025-03-07,Toys,Toys Item 20,3,40.04,Rachael Atkinson,Port Gloria,Delivered,Credit Card
+142,2025-02-23,Toys,Toys Item 24,1,231.16,Caitlin Dean,West Larry,Delivered,PayPal
+143,2025-04-08,Toys,Toys Item 44,5,17.61,Chris Hill,West Danielstad,Pending,Bank Transfer
+144,2024-12-15,Home & Kitchen,Home & Kitchen Item 22,3,11.77,Michael Stephens,Port Williamport,Cancelled,Bank Transfer
+145,2025-04-21,Electronics,Electronics Item 6,5,72.39,Nathan Vaughan,North Angela,Delivered,PayPal
+146,2025-01-09,Toys,Toys Item 39,1,266.17,Lee Johnson,Tylerton,Delivered,Bank Transfer
+147,2025-03-06,Books,Books Item 32,5,138.19,Annette Lewis,Shawchester,Delivered,Bank Transfer
+148,2024-11-27,Toys,Toys Item 32,5,203.47,Joseph Castillo,Alexville,Delivered,PayPal
+149,2025-03-15,Clothing,Clothing Item 50,2,231.61,,West Rebecca,Delivered,Credit Card
+150,2025-01-30,Books,Books Item 35,2,155.08,Adam Christensen,South Scottburgh,Cancelled,PayPal
